@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: url("Olympic.jpg");
+    background-position: center;
+}
+#canvas{
+    margin: 100px;
+    background-color: white;
+}
